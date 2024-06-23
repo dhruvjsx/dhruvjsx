@@ -50,11 +50,13 @@ jobs:
 
   generate-snake-game:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
     steps:
       - uses: Sutil/snk@master
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: 'dhruvjsx'
           svg_out_path: dist/github-contribution-grid-snake2.svg
           snake_color: 'blue'
 
