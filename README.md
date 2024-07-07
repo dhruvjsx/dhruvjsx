@@ -12,9 +12,6 @@
   <img src="/github-metrics.svg" alt="Metrics" width="500">
 </p>
 
-<p align="center">
-  <img src="https://github.com/dhruvjsx/dhruvjsx/blob/output/github-contribution-grid-snake2.svg" alt="snake animation" />
-</p>
 
 <div align="center">
   <h2>Quote of the Day:</h2>
