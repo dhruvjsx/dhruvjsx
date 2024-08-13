@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&duration=4500&pause=500&center=true&vCenter=true&random=false&width=435&lines=Namaste%F0%9F%99%8F;It's+good+to+see+you+%F0%9F%98%84;You+can+scroll+to+know+about+me+%F0%9F%91%87" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&duration=4500&pause=500&center=true&vCenter=true&random=false&width=500&lines=Namaste%F0%9F%99%8F;It's+good+to+see+you+%F0%9F%98%84;You+can+scroll+to+know+about+me+%F0%9F%91%87" alt="Typing SVG" width="500" />
 </p>
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dhruvjsx&theme=dark&background=0D1117" width="500" alt="GitHub Streak" />
 </p>
 
 <hr/>
+
 **Gender:** JavaScript  
 **Pronouns:** `Async`/`Await`
 
@@ -33,12 +33,11 @@
 
 **Quirky Anecdote:** Once, Dhruv tried to explain why `"5" + 3` is `"53"` but `5 + "3"` is also `"53"`, and why `5 - "3"` is `2`. It ended up confusing itself and everyone else in the room. The explanation concluded with, "You just have to trust me on this one."
 
-
 JavaScript is that unpredictable friend who’s always full of surprises, sometimes frustrating, but ultimately indispensable. Whether you love it or hate it, you can’t ignore its influence on the world of programming!
+
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="500">
 </p>
-
 
 <div align="center">
   <h2>Quote of the Day:</h2>
