@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhruvjsx&theme=dark&background=0D1117&stroke=ffaa00&ring=00aaff&fire=ffaa00" width="500" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dhruvjsx&theme=dark&background=0D1117&stroke=ffaa00&ring=ffaa00&fire=ffaa00" width="500" alt="GitHub Streak" />
 </p>
 
 <hr style="border:1px solid #00aaff;"/>
@@ -16,7 +16,7 @@
 <p style="color:#e4e4e7; font-size:16px;">
   <strong>Fun Facts:</strong>
   <ul style="list-style-type: square; color:#e4e4e7;">
-    <li><strong>Dhruv's Pet Peeve:</strong> Being forced to use <code style="color:#ff77ff;">var</code> instead of <code style="color:#ff77ff;">let</code> or <code style="color:#ff77ff;">const</code>. It prefers modern syntax because it feels more “in the now.”</li>
+    <li><strong>Dhruv's Pet Peeve:</strong> Being forced to use <code style="color:#ff77ff;">var</code> instead of <code style="color:#ff77ff;">let</code> or <code style="color:#ff77ff;">const</code>. Dhruv prefers modern syntax because it feels more “in the now.”</li>
     <li><strong>Dhruv's Favorite Hobby:</strong> Creating branches that will never be merged.</li>
     <li><strong>Dhruv's Relationship Status:</strong> It's complicated (with TypeScript).</li>
     <li><strong>Dhruv's Favorite Pick-Up Line:</strong> "Are you a JSON object? Because you've got all the right properties."</li>
