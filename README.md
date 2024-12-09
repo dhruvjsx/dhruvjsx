@@ -25,9 +25,7 @@
     <li><strong>Dhruv’s Breakup with "this":</strong> Dhruv broke up with <code style="color:#ff77ff;">this</code> in his code. It was too complicated. It was like dating a variable that changed every time they looked at it.</li>
     <li><strong>Dhruv's Favorite Pick-Up Line:</strong> "Are you a JSON object? Because you've got all the right properties."</li>
     <li><strong>Dhruv's Favorite Hangout Spot:</strong> The event loop, where it can keep an eye on everything happening in the browser, making sure no callback goes uncalled.</li>
-    <li><strong>Dhruv's Philosophy:</strong> Dhruv lives by the motto "Don’t limit yourself". Inspired from JavaScript, It believes in being everywhere at once—front end, back end, and beyond. It’s the ultimate multitasker, even if it sometimes bites off more than it can chew.</li>
-    <li><strong>Dhruv's Favorite Friends:</strong> Dhruv is best friends with JSON, the pair are inseparable when it comes to data exchange. It also has a close bond with HTML and CSS, as they often work together to make web pages shine.</li>
-      <li><strong>Dhruv’s Advice to New Developers:</strong> If you ever feel lost, remember: <code style="color:#ff77ff;">NaN</code> can’t be compared to anything, not even itself. So don’t compare yourself to others—you're perfect just the way you are!</li>
+    <li><strong>Dhruv’s Advice to New Developers:</strong> If you ever feel lost, remember: <code style="color:#ff77ff;">NaN</code> can’t be compared to anything, not even itself. So don’t compare yourself to others—you're perfect just the way you are!</li>
   </ul>
 </p>
 
