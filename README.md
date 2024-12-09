@@ -16,7 +16,8 @@
 <p style="color:#e4e4e7; font-size:16px;">
   <strong>Fun Facts:</strong>
   <ul style="list-style-type: square; color:#e4e4e7;">
-    <li><strong>Dhruv's Pet Peeve:</strong> Being forced to use <code style="color:#ff77ff;">var</code> instead of <code style="color:#ff77ff;">let</code> or <code style="color:#ff77ff;">const</code>. Dhruv prefers modern syntax because it feels more “in the now.”</li>
+    <li><strong>Dhruv's JavaScript Confession:</strong> Dhruv once tried to explain the logic behind <code style="color:#ff77ff;">console.log(0.1 + 0.2);</code> expecting <code style="color:#ff77ff;">0.3</code>, but instead it printed <code style="color:#ff77ff;">0.30000000000000004</code>. Now, Dhruv just nods and says, "It’s not a bug, it’s a feature... trust me."</li>
+    <li><strong>Dhruv's New Rule:</strong> "If JavaScript says <code style="color:#ff77ff;">![] == false</code> and <code style="color:#ff77ff;">[] == false</code>, it’s probably a sign to stop questioning the universe." Now Dhruv just codes, quietly accepting the chaos.</li>
     <li><strong>Dhruv's Favorite Hobby:</strong> Creating branches that will never be merged.</li>
     <li><strong>Dhruv's Relationship Status:</strong> It's complicated (with TypeScript).</li>
     <li><strong>Dhruv's Favorite Pick-Up Line:</strong> "Are you a JSON object? Because you've got all the right properties."</li>
