@@ -17,14 +17,17 @@
   <strong>Fun Facts:</strong>
   <ul style="list-style-type: square; color:#e4e4e7;">
     <li><strong>Dhruv's JavaScript Confession:</strong> Dhruv once tried to explain the logic behind <code style="color:#ff77ff;">console.log(0.1 + 0.2);</code> expecting <code style="color:#ff77ff;">0.3</code>, but instead it printed <code style="color:#ff77ff;">0.30000000000000004</code>. Now, Dhruv just nods and says, "It’s not a bug, it’s a feature... trust me."</li>
+      <li><strong>Quirky Anecdote:</strong> Once, Dhruv tried to explain why <code style="color:#ff77ff;">"5" + 3</code> is <code style="color:#ff77ff;">"53"</code> but <code style="color:#ff77ff;">5 + "3"</code> is also <code style="color:#ff77ff;">"53"</code>, and why <code style="color:#ff77ff;">5 - "3"</code> is <code style="color:#ff77ff;">2</code>. It ended up confusing itself and everyone else in the room. The explanation concluded with, "You just have to trust me on this one."
     <li><strong>Dhruv's New Rule:</strong> "If JavaScript says <code style="color:#ff77ff;">![] == false</code> and <code style="color:#ff77ff;">[] == false</code>, it’s probably a sign to stop questioning the universe." Now Dhruv just codes, quietly accepting the chaos.</li>
+      <li><strong>Dhruv's Motto:</strong> <code style="color:#ff77ff;">const</code> doesn’t mean constant in JavaScript. It’s just trying to keep things interesting!</li>
     <li><strong>Dhruv's Favorite Hobby:</strong> Creating branches that will never be merged.</li>
     <li><strong>Dhruv's Relationship Status:</strong> It's complicated (with TypeScript).</li>
+    <li><strong>Dhruv’s Breakup with "this":</strong> Dhruv broke up with <code style="color:#ff77ff;">this</code> in his code. It was too complicated. It was like dating a variable that changed every time they looked at it.</li>
     <li><strong>Dhruv's Favorite Pick-Up Line:</strong> "Are you a JSON object? Because you've got all the right properties."</li>
     <li><strong>Dhruv's Favorite Hangout Spot:</strong> The event loop, where it can keep an eye on everything happening in the browser, making sure no callback goes uncalled.</li>
     <li><strong>Dhruv's Philosophy:</strong> Dhruv lives by the motto "Don’t limit yourself". Inspired from JavaScript, It believes in being everywhere at once—front end, back end, and beyond. It’s the ultimate multitasker, even if it sometimes bites off more than it can chew.</li>
     <li><strong>Dhruv's Favorite Friends:</strong> Dhruv is best friends with JSON, the pair are inseparable when it comes to data exchange. It also has a close bond with HTML and CSS, as they often work together to make web pages shine.</li>
-    <li><strong>Quirky Anecdote:</strong> Once, Dhruv tried to explain why <code style="color:#ff77ff;">"5" + 3</code> is <code style="color:#ff77ff;">"53"</code> but <code style="color:#ff77ff;">5 + "3"</code> is also <code style="color:#ff77ff;">"53"</code>, and why <code style="color:#ff77ff;">5 - "3"</code> is <code style="color:#ff77ff;">2</code>. It ended up confusing itself and everyone else in the room. The explanation concluded with, "You just have to trust me on this one."
+      <li><strong>Dhruv’s Advice to New Developers:</strong> If you ever feel lost, remember: <code style="color:#ff77ff;">NaN</code> can’t be compared to anything, not even itself. So don’t compare yourself to others—you're perfect just the way you are!</li>
   </ul>
 </p>
 
