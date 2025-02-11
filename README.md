@@ -36,6 +36,6 @@
 <div align="center" style="background-color:#1a1a2e; padding:20px; border-radius:10px;">
   <h2 style="color:#00aaff;">Quote of the Day:</h2>
   <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_Mocha&color=ffaa00" width="500" alt="Readme Quotes" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_Mocha&color=ffaa00" width="700" alt="Readme Quotes" />
   </p>
 </div>
