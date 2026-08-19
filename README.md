@@ -9,6 +9,7 @@
 <hr style="border:1px solid #00aaff;"/>
 
 <p style="color:#e4e4e7; font-size:16px;">
+   <strong>Name:</strong> Dhruv Parmar | DhruvJS | Dhruvjsx <br>
   <strong>Gender:</strong> JavaScript<br/>
   <strong>Pronouns:</strong> <code style="color:#ff77ff;">Async</code>/<code style="color:#ff77ff;">Await</code>
 </p>
