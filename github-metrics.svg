@@ -84,7 +84,7 @@ dhruvjs | dhruvjsx | Dhruv Parmar</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2461 Commits
+                            2455 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,8 +232,8 @@ dhruvjs | dhruvjsx | Dhruv Parmar</div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="16.91680814940577 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">212</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="17.076400679117146 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">214</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/4123</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -250,8 +250,8 @@ dhruvjs | dhruvjsx | Dhruv Parmar</div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="19.263011152416357 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">126</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="19.568773234200744 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">128</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2152</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -276,7 +276,7 @@ dhruvjs | dhruvjsx | Dhruv Parmar</div>
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x130</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x131</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x55</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x48</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x39</span></div>
